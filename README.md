@@ -14,8 +14,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - 📟 <b>Linux</b>
   - [File Permission with Linux](https://docs.google.com/document/d/1EmWmvhScgmEUKnBO2GS9tUWAwFCH3GN41OS2eOln-4o/edit?usp=sharing)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - ⌨️ <b>Python</b>
   - [Updating a File Through Python Algorithm](https://docs.google.com/document/d/1iXzTRAZDUTiRlI0G6nQzGD1HvPG8ZzQgT662ej2RB-M/edit?usp=sharing&resourcekey=0-DnkNrN_nPdE8apEuUsdC9w)
  
